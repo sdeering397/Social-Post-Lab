@@ -1,0 +1,25 @@
+
+.div1{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+    
+}
+
+.new{
+    width: 50%;
+    height: 25px;
+    border-color: black;
+} 
+
+.list1{
+    display: flex;
+    justify-content: center;
+}
+
+.list2{
+    justify-content: center;
+    width: 70%;
+    border: black solid 1px;
+}
+

@@ -1,0 +1,16 @@
+.header{
+    font-family: 'Homemade Apple', cursive;
+    color: rgb(3,169,244);
+    
+}
+
+main{
+    font-family: 'Dosis', sans-serif;
+    
+}
+
+.head{
+    display: flex;
+    justify-content: center;
+}
+

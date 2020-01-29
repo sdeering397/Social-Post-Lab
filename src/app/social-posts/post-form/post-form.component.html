@@ -1,0 +1,15 @@
+<div class="form">
+    
+        <div class="form-inner">
+        <label>
+            <h2>Title</h2>
+            <input [(ngModel)] = "title" placeholder="Enter Title Here">
+        </label>
+        <label>
+            <h4>Thought</h4>
+            <input class="thoughts" [(ngModel)] = "thought" placeholder="Enter Thought Here"><br>
+        </label>
+        
+        <button (click)="submitPost(title, thought)" type="button">Add Post</button>
+    </div>
+</div>
